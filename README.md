@@ -1,6 +1,6 @@
-# 🐍 HNG Backend Wizards — Stage 0 Task
+#  HNG Backend Wizards — Stage 0 Task
 
-## 🚀 Task Overview
+## Task Overview
 This is my Stage 0 task for the **HNG 13 Backend Wizards Track**.  
 The goal is to create a simple REST API that returns:
 - My profile information  
@@ -9,7 +9,7 @@ The goal is to create a simple REST API that returns:
 
 ---
 
-## 🧩 Endpoint Specification
+## Endpoint Specification
 
 **GET** `/me`  
 Returns JSON response in the following format:
